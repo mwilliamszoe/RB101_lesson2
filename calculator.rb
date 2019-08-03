@@ -75,7 +75,7 @@ What's the operator?
     end
   end
 
-  prompt("#{operation_to_message} the two numbers...")
+  # prompt("#{operation_to_message} the two numbers...")
 
   result = case operator
         when '1'
